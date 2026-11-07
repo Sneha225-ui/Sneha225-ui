@@ -66,14 +66,11 @@ I'm looking forward to learning new technologies, taking on exciting challenges,
 
 ---
 
-## 📈 GitHub Overview
+## 📈 My GitHub Journey
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneha225-ui&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha225-ui&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+I'm continuously learning, experimenting with new technologies, and building projects to improve my skills.
 
----
+🌱 Every repository represents a new opportunity to learn something.
 
 ## 🤝 Let's Connect!
 
