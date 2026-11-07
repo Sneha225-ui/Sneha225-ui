@@ -50,6 +50,14 @@ An AI-powered project focused on movement analysis, posture correction, and pers
 
 One of my projects exploring technology and application development.
 
+🔗 [View Repository](https://github.com/Sneha225-ui/MarketPulse-AI)
+
+### 🔭 What's Next?
+
+More ideas, more experiments, and more projects to build!
+
+I'm looking forward to exploring new technologies, learning continuously, collaborating with others, and turning more creative ideas into reality. 🚀
+
 ### 🔭 What's Next?
 
 More ideas, more experiments, and more projects to build!
